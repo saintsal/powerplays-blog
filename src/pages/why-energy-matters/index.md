@@ -20,3 +20,5 @@ The way we currently distribute energy is ineffective. This is true whether you 
 These business models are changing.
 
 Energy distribution is such an exciting topic, and I'm starting to explore it - technically, economically, socially.  This blog is where I plan to share what I learn.
+
+-- [Salim Virani](http://salimvirani.com)
