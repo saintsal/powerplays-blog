@@ -7,7 +7,9 @@ date: "2018-06-24"
 
 > Fully contained within a 20' shipping container, the 10kW micro power utility can be deployed in three days, with the capacity to deliver power to upwards of 150 homes. - [standardmicrogrid.com](http://standardmicrogrid.com)
 
-So far, this looks like, well a fairly standard solar microgrid. But SMG thinks more like a product company than a utility or an NGO. And are looking to set a new standard.
+![](container.jpg)
+
+So far this looks like, well, a fairly standard solar microgrid. But SMG thinks more like a product company than a utility or an NGO. They're looking to set a new standard.
 
 SMG provides *high-amperage* power to areas that either have no power, or low-wattage solar systems that only provide LED lighting or phone charging.
 
@@ -18,6 +20,8 @@ Usually, high-amperage power is an expensive undertaking and not cost-effective 
 ## Subscription Credit
 
 If you grew up with electricity in your home, you probably expect all the plugs to provide power whenever you plug anything in.  SMG targets people without the assumption of on-demand power. They sell power subscriptions for specific times and devices. 
+
+![](outlets.jpg)
 
 This ripples into other advantages in their business model.
 
