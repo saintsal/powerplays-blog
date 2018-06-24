@@ -73,6 +73,7 @@ class Template extends React.Component {
         <Helmet>
           <style>{' body{ background-color: #025F48}'}</style>
           <style>{' a { color: #FF643D; text-decoration: none }'}</style>
+          <style>{' blockquote {  margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: .666rem; padding-left: 1.666rem; padding-right: 1.666rem; padding-top: 1rem; margin-bottom: 1.666rem; background-color: rgba(255,255,255,0.05); }'}</style>
         </Helmet>
       </div>
     )
