@@ -1,8 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Power Plays]]></title><description><![CDATA[Exploring business models for energy distribution.]]></description><link>http://powerplays.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Jun 2018 15:41:44 GMT</lastBuildDate><item><title><![CDATA[Standard Microgrid]]></title><description><![CDATA[Standard Microgrid (SMG) is a big inspiration behind this blog. It’s a great example of how rethinking energy distribution can enable…]]></description><link>http://powerplays.io//standard-microgrid/</link><guid isPermaLink="false">http://powerplays.io//standard-microgrid/</guid><pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Standard Microgrid (SMG) is a big inspiration behind this blog. It’s a great example of how rethinking energy distribution can enable everyone to have access to power. SMG targets island and isolated rural communities that haven’t had power before, starting in Zambia but with ambition across Sub-Saharan Africa (SSA).&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Power Plays]]></title><description><![CDATA[Exploring business models for energy distribution.]]></description><link>http://powerplays.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Jun 2018 16:00:05 GMT</lastBuildDate><item><title><![CDATA[Standard Microgrid]]></title><description><![CDATA[Standard Microgrid (SMG)  is a big inspiration behind this blog. It’s a great example of how rethinking energy distribution can enable…]]></description><link>http://powerplays.io//standard-microgrid/</link><guid isPermaLink="false">http://powerplays.io//standard-microgrid/</guid><pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;http://standardmicrogrid.com&quot;&gt;Standard Microgrid (SMG)&lt;/a&gt; is a big inspiration behind this blog. It’s a great example of how rethinking energy distribution can enable everyone to have access to power. SMG targets island and isolated rural communities that haven’t had power before, starting in Zambia but with ambition across Sub-Saharan Africa (SSA).&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Fully contained within a 20’ shipping container, the 10kW micro power utility can be deployed in three days, with the capacity to deliver power to upwards of 150 homes. - &lt;a href=&quot;http://standardmicrogrid.com&quot;&gt;standardmicrogrid.com&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;So far, this looks like, well a fairly standard solar microgrid. But SMG thinks more like a product company than a utility or an NGO. And are looking to set a new standard.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/container-021b6d5e6ac65a733e9fc5fcc518164b-30631.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.6875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAXV0NQqkkH//xAAYEAEBAQEBAAAAAAAAAAAAAAACAREAIv/aAAgBAQABBQIoZ404YbRLarq7/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECERL/2gAIAQMBAT8BcLMn/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEREhP/2gAIAQIBAT8B0guj/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECERIxIjJB/9oACAEBAAY/ArTseb2UtHFtCl6jvI//xAAZEAEBAQEBAQAAAAAAAAAAAAABEQBBgZH/2gAIAQEAAT8h+hoXTzA7pIpkWQtg5mMKCY5h7v/aAAwDAQACAAMAAAAQHx//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAEDAQE/EB6hBhf/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EEVtZ//EAB4QAQACAQQDAAAAAAAAAAAAAAEAESExQVFxYfDx/9oACAEBAAE/EBhe0pPsvZ1dkYPREN5oc+Yfslah9JeKgOnO/cGUZxlP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;container&quot;
+        title=&quot;&quot;
+        src=&quot;/static/container-021b6d5e6ac65a733e9fc5fcc518164b-f8fb9.jpg&quot;
+        srcset=&quot;/static/container-021b6d5e6ac65a733e9fc5fcc518164b-e8976.jpg 148w,
+/static/container-021b6d5e6ac65a733e9fc5fcc518164b-63df2.jpg 295w,
+/static/container-021b6d5e6ac65a733e9fc5fcc518164b-f8fb9.jpg 590w,
+/static/container-021b6d5e6ac65a733e9fc5fcc518164b-85e3d.jpg 885w,
+/static/container-021b6d5e6ac65a733e9fc5fcc518164b-d1924.jpg 1180w,
+/static/container-021b6d5e6ac65a733e9fc5fcc518164b-30631.jpg 1600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;So far this looks like, well, a fairly standard solar microgrid. But SMG thinks more like a product company than a utility or an NGO. They’re looking to set a new standard.&lt;/p&gt;
 &lt;p&gt;SMG provides &lt;em&gt;high-amperage&lt;/em&gt; power to areas that either have no power, or low-wattage solar systems that only provide LED lighting or phone charging.&lt;/p&gt;
 &lt;p&gt;Usually, high-amperage power is an expensive undertaking and not cost-effective for these communities. SMG has shown it’s possible beccause they rethought a few core assumptions:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -10,6 +46,40 @@
 &lt;/blockquote&gt;
 &lt;h2&gt;Subscription Credit&lt;/h2&gt;
 &lt;p&gt;If you grew up with electricity in your home, you probably expect all the plugs to provide power whenever you plug anything in.  SMG targets people without the assumption of on-demand power. They sell power subscriptions for specific times and devices. &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/outlets-b6bd14cab3b3a2e14e0181ba160edcfb-a0e60.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABqjFDdDSX/8QAGxABAAICAwAAAAAAAAAAAAAAAQACAxMEERL/2gAIAQEAAQUCyKV7U1TlpKZK1mj3P//EABgRAAIDAAAAAAAAAAAAAAAAAAABERJR/9oACAEDAQE/AbELT//EABcRAQADAAAAAAAAAAAAAAAAAAABAiH/2gAIAQIBAT8BirX/xAAbEAACAgMBAAAAAAAAAAAAAAAAEQECAxIhIv/aAAgBAQAGPwJsdsi2O5JKqOEuPJtWeH//xAAbEAACAwEBAQAAAAAAAAAAAAAAAREhMWFRgf/aAAgBAQABPyF4d5iVWCg8bvZ+DzXZfSBtm/cOz4f/2gAMAwEAAgADAAAAEHwv/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQEQ/9oACAEDAQE/EKjF/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFx/9oACAECAQE/EIVh/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFBUWH/2gAIAQEAAT8QOgNQAh85FXAMVkNYwShCB0dV8iWCyt1bEuFbuSUrXZ0e2yk//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;outlets&quot;
+        title=&quot;&quot;
+        src=&quot;/static/outlets-b6bd14cab3b3a2e14e0181ba160edcfb-f8fb9.jpg&quot;
+        srcset=&quot;/static/outlets-b6bd14cab3b3a2e14e0181ba160edcfb-e8976.jpg 148w,
+/static/outlets-b6bd14cab3b3a2e14e0181ba160edcfb-63df2.jpg 295w,
+/static/outlets-b6bd14cab3b3a2e14e0181ba160edcfb-f8fb9.jpg 590w,
+/static/outlets-b6bd14cab3b3a2e14e0181ba160edcfb-a0e60.jpg 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;p&gt;This ripples into other advantages in their business model.&lt;/p&gt;
 &lt;h2&gt;Return on capital&lt;/h2&gt;
 &lt;blockquote&gt;

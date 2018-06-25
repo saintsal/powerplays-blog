@@ -11,9 +11,9 @@ date: "2018-06-24"
 
 So far this looks like, well, a fairly standard solar microgrid. But SMG thinks more like a product company than a utility or an NGO. They're looking to set a new standard.
 
-SMG provides *high-amperage* power to areas that either have no power, or low-wattage solar systems that only provide LED lighting or phone charging.
+SMG provides *high-amperage* power to areas that either have no power, or low-wattage solar systems that only provide LED lighting or phone charging.  The story usually goes: *With an LED light, this family can use evening hours.  The children can do their homework now.* but the reality is that people use kerosene lanterns affordable already. High-amperage power enables new uses that create economic power: fridges, power tools, sewing machines.
 
-Usually, high-amperage power is an expensive undertaking and not cost-effective for these communities. SMG has shown it's possible beccause they rethought a few core assumptions:
+Usually, high-amperage power is too expensive an undertaking and not cost-effective for these communities. SMG has shown it's possible because they rethought a few core assumptions:
 
 > Rather than paying a utility company for electricity by the kilowatt unit, a local Microgrid manger is provided simple tools to manage the grid and distribute subscription credit to connected community members. - [raeng.org.uk](https://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborations/africa-prize/current-and-recent-awardees/2016)
 
@@ -29,7 +29,7 @@ This ripples into other advantages in their business model.
 
 > Power generated is stored in batteries and supply and demand is balanced to ensure reliability and eliminate electricity waste. - [raeng.org.uk](https://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborations/africa-prize/current-and-recent-awardees/2016)
 
-One of the biggest costs in solar power provision is from amortizing the batteries. With these subscriptions, power demand becomes more predictable. This allows a variety of optimizations, from revenue and yield optimization similar to airline tickets, through to designing services that use the batteries more effectively.  All of these, combined with other technologies like modern AC, enable SMG to make high-amperage power affordable in these communities.
+One of the biggest costs in solar power provision is from amortizing the batteries. With these subscriptions, power demand becomes more predictable. This allows a variety of optimizations, from revenue and yield optimization similar to airline tickets, through to designing services that use the batteries more effectively.  All of these, combined with other technologies,like digital AC, enable SMG to make high-amperage power affordable in these communities.
 
 ## Fast deployment - technically, financially and operationally
 
@@ -41,7 +41,9 @@ Technically, the system can deploy quickly. Power subscriptions are sold and man
 ## Community support
 
 SMG has deployed in three different areas in Zambia, which is a great start. They've shown they
-can help a community rise. There are lots of stories where local community leaders have taken initiative and mobilized all the necessary elements for infrastructure investment, so they're well-positioned for grassroots initiative.
+can help a community rise. 
+
+It's not uncommon to see local leaders mobilize a community to pay for some form of infrastructure, whether it's a toilet at the church, or pulling a power line from the grid. SMG is well-position to sell into this kind of initiative, since the local community doesn't pay for the upfront capital cost.
 
 ## Government approval
 
