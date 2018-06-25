@@ -7,6 +7,18 @@ const typography = new Typography({
   bodyFontFamily: ['Eczar', 'Times', 'serif'],
   headerColor: 'hsla(12,100%,92%,1)',
   bodyColor: 'hsla(207,95%,94%,1)',
+  overrideStyles: ({ adjustFontSizeTo, rhythm }, options, styles) => ({
+    blockquote: {
+     ...adjustFontSizeTo('19px'),
+      fontStyle: 'italic',
+      padding: rhythm(1),
+      marginLeft: rhythm(0),
+      marginTop: rhythm(0),
+      marginRight: rhythm(0),
+      marginBottom: rhythm(1.5),
+      backgroundColor: 'rgba(255,255,255,0.05)'
+     }
+  })
 })
 
 
