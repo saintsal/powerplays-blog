@@ -11,7 +11,7 @@ date: "2018-06-24"
 
 So far this looks like, well, a fairly standard solar microgrid. But SMG thinks more like a product company than a utility or an NGO. They're looking to set a new standard.
 
-SMG provides *high-amperage* power to areas that either have no power, or low-wattage solar systems that only provide LED lighting or phone charging.  The story usually goes: *With an LED light, this family can use evening hours.  The children can do their homework now.* but the reality is that people use kerosene lanterns affordable already. High-amperage power enables new uses that create economic power: fridges, power tools, sewing machines.
+SMG provides *high-amperage* power to areas that either have no power, or low-wattage solar systems that only provide LED lighting or phone charging.  High-amperage power enables new uses that create economic power: fridges, power tools, sewing machines.
 
 Usually, high-amperage power is too expensive an undertaking and not cost-effective for these communities. SMG has shown it's possible because they rethought a few core assumptions:
 
